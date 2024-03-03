@@ -1,4 +1,4 @@
-How-To
+# How-To
  1. install [python (3.11.x)](https://www.python.org/downloads/) 
  2. initial the python enviroment with command (run in powershell or cmd terminal): 
  ```
